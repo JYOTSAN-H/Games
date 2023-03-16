@@ -19,6 +19,6 @@ else:
     print("thukka tero zindagi tetro " + str(int(rime)+1) +  " guess ma pani sakinas hana ")
     print("mailey " + str(ranNumber) + " socheko theyy")
 if reply=='tero dai ho':
-    print("laudaaaaaa")
+    print("Cool bro timi tah")
 else:
-    print("laudaaaaaa")
+    print("Sai hoo")
